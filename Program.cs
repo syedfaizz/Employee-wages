@@ -8,7 +8,7 @@ namespace Employee_Wage
         {
 
             EmployeeWage empWage = new EmployeeWage();
-            empWage.dailyWage();
+            empWage.monthWage();
         }
     }
 }
